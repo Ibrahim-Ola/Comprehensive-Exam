@@ -1,5 +1,5 @@
 # Comprehensive-Exam
-This repo consists of a my computing artifact which is a requirement for my PhD candidacy. Full details to be added shortly. 
+This repo consists of a my computing artifact which is a requirement for my PhD candidacy.  
 
 ## Package:
 
@@ -12,3 +12,4 @@ All libraries needed to run the codes in this tutorial comes pre-installed in an
 ``` none
 pip install TensorFlow
 ```
+Full details to be added shortly.
