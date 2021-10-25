@@ -13,7 +13,7 @@ All libraries needed to run the codes in this tutorial comes pre-installed in an
 pip install TensorFlow
 ```
 
-# How-to run #
+## How-to run ##
 
     git clone https://github.com/pahaz/twitter-hadoop-example.git
     cd twitter-hadoop-example
