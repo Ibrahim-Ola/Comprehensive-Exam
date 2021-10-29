@@ -7,22 +7,27 @@ The goal of this tutorial is to;
 3. Understand the fundamental types of and techniques in Machine Learning
 4. Implement Machine Learning with a SnowEx dataset 
 
-## How to Use this Tutorial
+### How to Use this Tutorial
 
-### 1. Download Anaconda
+#### 1. Download Anaconda
 
 Download Anaconda installer for your operating system (OS) using this [link](https://www.anaconda.com/products/individual). Afterwards, intall the Anaconda setup follwing the instructions for your OS found [here](https://docs.anaconda.com/anaconda/install/)
 
-### 2. Clone this Repository ###
-    git clone 
+#### 2. Clone this Repository ####
 
+    git clone https://github.com/Ibrahim-Ola/Comprehensive-Exam.git
 
-## Libraries
+#### 3. Launch Anaconda and Open Jupyter Notebook or Jupyter Lab
 
-All libraries needed to run the codes in this tutorial comes pre-installed in anacoda distribution of Python except for TensorFlow. TensorFlow can be installed using
+* Windows: Open the Anaconda Navigator. The window that pops up when it opens should have `Jupyter Notebook` and `Jupyter Lab`. Select anyone you want and launch it. When it opens, navigate to the directory housing the cloned repository.
+* Linux/Mac: Open your terminal and type `jupyter notebook` or `jupyter lab`.  When it opens, navigate to the directory housing the cloned repository.
 
-``` none
-pip install TensorFlow
-```
+Note: the cloned repo will be zipped, so unzip it to access the files in there.
 
-Full details to be added shortly.
+#### 4. Install Additional Libraries ####
+
+All packages needed come pre-installed in Anaconda except for TensorFlow. Install TensorFlow using:
+
+    conda install tensorflow
+
+Note: the `tensorflow` installation command above assumes that you are installing using a command line interface such as Anconda promt for Windows or Terminal for Linux/Mac. To install directly from Jupyter, use: `!conda install tensorflow`.
