@@ -1,6 +1,6 @@
 ## Machine Learning in Python Tutorial 
 
-This tutorial was developed for the [SnowEx Hackweek](https://snowex-hackweek.github.io/website/intro.html) that held between July 12 - 16.
+This tutorial was developed for the [SnowEx Hackweek](https://snowex-hackweek.github.io/website/intro.html) that held between July 12 - 16 2021.
 
 The goal of this tutorial is to;
 
