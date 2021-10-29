@@ -1,5 +1,7 @@
 ## Machine Learning in Python Tutorial 
 
+This tutorial was developed for the [SnowEx Hackweek](https://snowex-hackweek.github.io/website/intro.html) that held between July 12 - 16.
+
 The goal of this tutorial is to;
 
 1. Understand the goals and main concepts of a Machine Learning Algorithm
