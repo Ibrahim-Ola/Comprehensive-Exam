@@ -6,3 +6,9 @@
 ### Project Description
 
 This repo contains a project which is a sample on how to use Githiub.
+
+### How to Run Codes
+
+```
+python hello.py
+```
