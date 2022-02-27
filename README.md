@@ -32,4 +32,4 @@ All packages needed come pre-installed in Anaconda except for TensorFlow. Instal
 
     conda install tensorflow
 
-Note: the `tensorflow` installation command above assumes that you are installing using a command line interface such as Anconda promt for Windows or Terminal for Linux/Mac. To install directly from Jupyter, use: `!conda install tensorflow`.
+Note: the `tensorflow` installation command above assumes that you are installing using a command line interface such as Anconda promt for Windows or Terminal for Linux/Mac. To install directly from Jupyter, use: `!conda install tensorflow`..
